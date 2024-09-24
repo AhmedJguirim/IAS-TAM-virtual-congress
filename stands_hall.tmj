@@ -2062,7 +2062,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"main_conference_room.tmj"
+                         "value":"main_conference_room.tmj#from-stands-hall"
                         }],
                  "rotation":0,
                  "type":"area",

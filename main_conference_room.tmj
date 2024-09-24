@@ -613,7 +613,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"outside#from-hannibal"
+                         "value":"garden_passage.tmj#from-main-conference-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -625,7 +625,7 @@
                 {
                  "height":59.6666666666665,
                  "id":28,
-                 "name":"from-outside",
+                 "name":"from-garden-passage",
                  "properties":[
                         {
                          "name":"start",
@@ -647,7 +647,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall#from-hannibal"
+                         "value":"stands_hall#from-main-conference-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -659,7 +659,7 @@
                 {
                  "height":148,
                  "id":23,
-                 "name":"start",
+                 "name":"from-stands-hall",
                  "properties":[
                         {
                          "name":"start",
@@ -1199,7 +1199,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {

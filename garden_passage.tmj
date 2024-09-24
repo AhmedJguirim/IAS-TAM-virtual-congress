@@ -449,7 +449,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall.tmj#from-passage"
+                         "value":"stands_hall.tmj#from-garden-passage"
                         }],
                  "rotation":0,
                  "type":"area",
